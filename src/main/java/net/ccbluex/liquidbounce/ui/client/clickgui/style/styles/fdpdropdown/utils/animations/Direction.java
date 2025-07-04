@@ -1,0 +1,11 @@
+/*
+ * AloxClient Hacked Client
+ * A free open source mixin-based injection hacked client for Minecraft using Minecraft Forge.
+ * https://github.com/SkidderMC/AloxClient/
+ */
+package net.ccbluex.liquidbounce.ui.client.clickgui.style.styles.fdpdropdown.utils.animations;
+
+public enum Direction {
+    FORWARDS,
+    BACKWARDS
+}

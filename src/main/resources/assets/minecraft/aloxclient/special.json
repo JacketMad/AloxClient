@@ -1,0 +1,25 @@
+{
+  "prefix": ".",
+  "auto-reconnect": 60000,
+  "alt-field": "F%nD%nP%n_%s%s%s",
+  "use-glyph-fontrenderer": false,
+  "anti-forge": {
+    "enable": true,
+    "block-fml": true,
+    "block-proxy": true,
+    "block-payload": true
+  },
+  "serverspoof": {
+    "enable": false,
+    "address": "redesky.com"
+  },
+  "proxy": {
+    "enable": false,
+    "address": "127.0.0.1:10808",
+    "type": "SOCKS"
+  },
+  "background": {
+    "enable": true,
+    "particles": false
+  }
+}
