@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+FMLCorePlugin: net.ccbluex.liquidbounce.injection.forge.MixinLoader
+FMLCorePluginContainsFMLMod: true
+ForceLoadAsMod: true
+MixinConfigs: aloxclient.forge.mixins.json
+ModSide: CLIENT
+TweakClass: org.spongepowered.asm.launch.MixinTweaker
+TweakOrder: 0
+FMLAT: aloxclient_at.cfg
+Main-Class: net.setup.AloxInstructionsKt
+

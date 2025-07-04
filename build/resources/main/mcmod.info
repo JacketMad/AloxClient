@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "aloxclient",
+    "name": "AloxClient",
+    "description": "A free mixin-based injection hacked-client",
+    "version": "b14",
+    "mcversion": "1.8.9",
+    "url": "https://aloxclient.github.io",
+    "updateUrl": "",
+    "authorList": ["Zywl"],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]

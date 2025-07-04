@@ -1,0 +1,194 @@
+net/ccbluex/liquidbounce/injection/forge/mixins/tweaks/MixinEntityFX.java
+ net.ccbluex.liquidbounce.injection.forge.mixins.tweaks.MixinEntityFX
+net/ccbluex/liquidbounce/injection/forge/mixins/entity/MixinPlayerControllerMP.java
+ net.ccbluex.liquidbounce.injection.forge.mixins.entity.MixinPlayerControllerMP
+net/ccbluex/liquidbounce/injection/forge/mixins/gui/MixinGuiMultiplayer.java
+ net.ccbluex.liquidbounce.injection.forge.mixins.gui.MixinGuiMultiplayer
+net/ccbluex/liquidbounce/injection/forge/mixins/client/MixinMovementInput.java
+ net.ccbluex.liquidbounce.injection.forge.mixins.client.MixinMovementInput
+net/ccbluex/liquidbounce/injection/forge/mixins/gui/MixinGuiButtonExt.java
+ net.ccbluex.liquidbounce.injection.forge.mixins.gui.MixinGuiButtonExt
+net/ccbluex/liquidbounce/injection/forge/mixins/block/MixinBlockSlime.java
+ net.ccbluex.liquidbounce.injection.forge.mixins.block.MixinBlockSlime
+net/ccbluex/liquidbounce/injection/forge/mixins/gui/MixinGuiContainer.java
+ net.ccbluex.liquidbounce.injection.forge.mixins.gui.MixinGuiContainer
+net/vitox/Particle.java
+ net.vitox.Particle
+net/ccbluex/liquidbounce/injection/forge/mixins/render/MixinVisGraph.java
+ net.ccbluex.liquidbounce.injection.forge.mixins.render.MixinVisGraph
+net/ccbluex/liquidbounce/injection/forge/mixins/gui/MixinGuiButton.java
+ net.ccbluex.liquidbounce.injection.forge.mixins.gui.MixinGuiButton
+net/ccbluex/liquidbounce/injection/forge/mixins/render/MixinModelBiped.java
+ net.ccbluex.liquidbounce.injection.forge.mixins.render.MixinModelBiped
+net/ccbluex/liquidbounce/injection/forge/mixins/render/MixinRenderEntityItem.java
+ net.ccbluex.liquidbounce.injection.forge.mixins.render.MixinRenderEntityItem
+net/ccbluex/liquidbounce/ui/client/clickgui/style/styles/fdpdropdown/utils/animations/impl/SmoothStepAnimation.java
+ net.ccbluex.liquidbounce.ui.client.clickgui.style.styles.fdpdropdown.utils.animations.impl.SmoothStepAnimation
+net/ccbluex/liquidbounce/injection/forge/mixins/gui/MixinGuiDisconnected.java
+ net.ccbluex.liquidbounce.injection.forge.mixins.gui.MixinGuiDisconnected
+net/ccbluex/liquidbounce/ui/client/clickgui/style/styles/fdpdropdown/utils/animations/impl/EaseBackIn.java
+ net.ccbluex.liquidbounce.ui.client.clickgui.style.styles.fdpdropdown.utils.animations.impl.EaseBackIn
+net/ccbluex/liquidbounce/injection/forge/mixins/render/MixinItemRenderer.java
+ net.ccbluex.liquidbounce.injection.forge.mixins.render.MixinItemRenderer
+net/ccbluex/liquidbounce/injection/forge/mixins/render/MixinTileEntityRendererDispatcher.java
+ net.ccbluex.liquidbounce.injection.forge.mixins.render.MixinTileEntityRendererDispatcher
+net/ccbluex/liquidbounce/injection/forge/mixins/gui/MixinGuiChat.java
+ net.ccbluex.liquidbounce.injection.forge.mixins.gui.MixinGuiChat
+net/ccbluex/liquidbounce/injection/forge/mixins/entity/MixinEntityLivingBase.java
+ net.ccbluex.liquidbounce.injection.forge.mixins.entity.MixinEntityLivingBase
+net/ccbluex/liquidbounce/injection/forge/mixins/gui/MixinGuiAchievement.java
+ net.ccbluex.liquidbounce.injection.forge.mixins.gui.MixinGuiAchievement
+net/ccbluex/liquidbounce/injection/forge/mixins/render/MixinFontRenderer.java
+ net.ccbluex.liquidbounce.injection.forge.mixins.render.MixinFontRenderer
+net/ccbluex/liquidbounce/injection/forge/mixins/tweaks/MixinAnvilChunkLoader.java
+ net.ccbluex.liquidbounce.injection.forge.mixins.tweaks.MixinAnvilChunkLoader
+net/ccbluex/liquidbounce/injection/forge/mixins/render/MixinRendererLivingEntity.java
+ net.ccbluex.liquidbounce.injection.forge.mixins.render.MixinRendererLivingEntity
+net/ccbluex/liquidbounce/injection/forge/mixins/gui/MixinGuiScreenOptionsSoundsButton.java
+ net.ccbluex.liquidbounce.injection.forge.mixins.gui.MixinGuiScreenOptionsSoundsButton
+net/vitox/particle/util/RenderUtils.java
+ net.vitox.particle.util.RenderUtils
+net/ccbluex/liquidbounce/injection/forge/mixins/gui/MixinGuiTextField.java
+ net.ccbluex.liquidbounce.injection.forge.mixins.gui.MixinGuiTextField
+net/ccbluex/liquidbounce/utils/simulation/SimulatedPlayerJavaExtensions.java
+ net.ccbluex.liquidbounce.utils.simulation.SimulatedPlayerJavaExtensions
+net/ccbluex/liquidbounce/injection/forge/mixins/render/MixinLayerArmorBase.java
+ net.ccbluex.liquidbounce.injection.forge.mixins.render.MixinLayerArmorBase
+net/ccbluex/liquidbounce/injection/forge/mixins/entity/MixinEntityPlayerSP.java
+ net.ccbluex.liquidbounce.injection.forge.mixins.entity.MixinEntityPlayerSP
+net/ccbluex/liquidbounce/injection/forge/mixins/render/MixinRenderPlayer.java
+ net.ccbluex.liquidbounce.injection.forge.mixins.render.MixinRenderPlayer
+net/ccbluex/liquidbounce/injection/forge/mixins/network/MixinNetworkManager.java
+ net.ccbluex.liquidbounce.injection.forge.mixins.network.MixinNetworkManager
+net/ccbluex/liquidbounce/injection/forge/mixins/network/MixinNetworkPlayerInfo.java
+ net.ccbluex.liquidbounce.injection.forge.mixins.network.MixinNetworkPlayerInfo
+net/ccbluex/liquidbounce/injection/forge/mixins/gui/MixinGuiPlayerTabOverlay.java
+ net.ccbluex.liquidbounce.injection.forge.mixins.gui.MixinGuiPlayerTabOverlay
+net/ccbluex/liquidbounce/injection/forge/mixins/gui/MixinGuiSlider.java
+ net.ccbluex.liquidbounce.injection.forge.mixins.gui.MixinGuiSlider
+net/ccbluex/liquidbounce/handler/payload/ClientBrandRetriever.java
+ net.ccbluex.liquidbounce.handler.payload.ClientBrandRetriever
+net/ccbluex/liquidbounce/ui/client/clickgui/style/styles/fdpdropdown/utils/animations/Direction.java
+ net.ccbluex.liquidbounce.ui.client.clickgui.style.styles.fdpdropdown.utils.animations.Direction
+net/ccbluex/liquidbounce/injection/forge/mixins/gui/MixinGui.java
+ net.ccbluex.liquidbounce.injection.forge.mixins.gui.MixinGui
+net/ccbluex/liquidbounce/injection/forge/mixins/world/MixinWorldClient.java
+ net.ccbluex.liquidbounce.injection.forge.mixins.world.MixinWorldClient
+net/ccbluex/liquidbounce/injection/forge/mixins/render/MixinEffectRenderer.java
+ net.ccbluex.liquidbounce.injection.forge.mixins.render.MixinEffectRenderer
+net/ccbluex/liquidbounce/ui/client/clickgui/style/styles/fdpdropdown/utils/normal/TimerUtil.java
+ net.ccbluex.liquidbounce.ui.client.clickgui.style.styles.fdpdropdown.utils.normal.TimerUtil
+net/ccbluex/liquidbounce/injection/forge/mixins/gui/MixinGuiNewChat.java
+ net.ccbluex.liquidbounce.injection.forge.mixins.gui.MixinGuiNewChat
+net/ccbluex/liquidbounce/utils/block/MinecraftWorldProvider.java
+ net.ccbluex.liquidbounce.utils.block.MinecraftWorldProvider
+net/vitox/ParticleGenerator.java
+ net.vitox.ParticleGenerator
+net/ccbluex/liquidbounce/injection/forge/mixins/render/MixinModelPlayerFix.java
+ net.ccbluex.liquidbounce.injection.forge.mixins.render.MixinModelPlayerFix
+net/ccbluex/liquidbounce/injection/forge/mixins/gui/MixinGuiEditSign.java
+ net.ccbluex.liquidbounce.injection.forge.mixins.gui.MixinGuiEditSign
+net/ccbluex/liquidbounce/injection/forge/mixins/client/MixinGameSettings.java
+ net.ccbluex.liquidbounce.injection.forge.mixins.client.MixinGameSettings
+net/ccbluex/liquidbounce/injection/forge/mixins/world/MixinWorld.java
+ net.ccbluex.liquidbounce.injection.forge.mixins.world.MixinWorld
+net/ccbluex/liquidbounce/injection/forge/mixins/render/MixinEntityRenderer.java
+ net.ccbluex.liquidbounce.injection.forge.mixins.render.MixinEntityRenderer
+net/ccbluex/liquidbounce/injection/forge/mixins/network/MixinNetHandlerPlayClient.java
+ net.ccbluex.liquidbounce.injection.forge.mixins.network.MixinNetHandlerPlayClient
+net/ccbluex/liquidbounce/injection/forge/mixins/block/MixinBlockModelRenderer.java
+ net.ccbluex.liquidbounce.injection.forge.mixins.block.MixinBlockModelRenderer
+net/ccbluex/liquidbounce/injection/forge/mixins/entity/MixinEntityPlayer.java
+ net.ccbluex.liquidbounce.injection.forge.mixins.entity.MixinEntityPlayer
+net/ccbluex/liquidbounce/injection/forge/mixins/packets/MixinC00Handshake.java
+ net.ccbluex.liquidbounce.injection.forge.mixins.packets.MixinC00Handshake
+net/ccbluex/liquidbounce/injection/forge/mixins/block/MixinBlock.java
+ net.ccbluex.liquidbounce.injection.forge.mixins.block.MixinBlock
+net/ccbluex/liquidbounce/injection/forge/MixinLoader.java
+ net.ccbluex.liquidbounce.injection.forge.MixinLoader
+net/ccbluex/liquidbounce/utils/render/Stencil.java
+ net.ccbluex.liquidbounce.utils.render.Stencil
+net/ccbluex/liquidbounce/injection/forge/mixins/gui/MixinGuiSlot.java
+ net.ccbluex.liquidbounce.injection.forge.mixins.gui.MixinGuiSlot
+net/ccbluex/liquidbounce/injection/forge/mixins/render/MixinRenderGlobal.java
+ net.ccbluex.liquidbounce.injection.forge.mixins.render.MixinRenderGlobal
+net/ccbluex/liquidbounce/injection/forge/mixins/entity/MixinInventoryPlayer.java
+ net.ccbluex.liquidbounce.injection.forge.mixins.entity.MixinInventoryPlayer
+net/ccbluex/liquidbounce/injection/forge/mixins/render/MixinTileEntityMobSpawnerRenderer.java
+ net.ccbluex.liquidbounce.injection.forge.mixins.render.MixinTileEntityMobSpawnerRenderer
+net/ccbluex/liquidbounce/ui/client/clickgui/style/styles/fdpdropdown/utils/render/StencilUtil.java
+ net.ccbluex.liquidbounce.ui.client.clickgui.style.styles.fdpdropdown.utils.render.StencilUtil
+net/ccbluex/liquidbounce/injection/forge/mixins/gui/MixinGuiOverlayDebug.java
+ net.ccbluex.liquidbounce.injection.forge.mixins.gui.MixinGuiOverlayDebug
+ net.ccbluex.liquidbounce.injection.forge.mixins.gui.MixinGuiOverlayDebug$1
+net/ccbluex/liquidbounce/injection/forge/mixins/entity/MixinEntity.java
+ net.ccbluex.liquidbounce.injection.forge.mixins.entity.MixinEntity
+net/ccbluex/liquidbounce/injection/forge/mixins/client/MixinProfiler.java
+ net.ccbluex.liquidbounce.injection.forge.mixins.client.MixinProfiler
+net/ccbluex/liquidbounce/injection/forge/mixins/gui/MixinGuiIngameMenu.java
+ net.ccbluex.liquidbounce.injection.forge.mixins.gui.MixinGuiIngameMenu
+net/ccbluex/liquidbounce/injection/forge/mixins/gui/MixinGuiKeyBindingList.java
+ net.ccbluex.liquidbounce.injection.forge.mixins.gui.MixinGuiKeyBindingList
+net/ccbluex/liquidbounce/injection/forge/mixins/render/MixinRender.java
+ net.ccbluex.liquidbounce.injection.forge.mixins.render.MixinRender
+net/ccbluex/liquidbounce/injection/forge/mixins/tweaks/MixinMinecraftServer.java
+ net.ccbluex.liquidbounce.injection.forge.mixins.tweaks.MixinMinecraftServer
+net/ccbluex/liquidbounce/injection/forge/mixins/gui/MixinGuiOptionSlider.java
+ net.ccbluex.liquidbounce.injection.forge.mixins.gui.MixinGuiOptionSlider
+net/ccbluex/liquidbounce/injection/forge/mixins/gui/MixinGuiConnecting.java
+ net.ccbluex.liquidbounce.injection.forge.mixins.gui.MixinGuiConnecting
+net/ccbluex/liquidbounce/injection/forge/mixins/entity/MixinAbstractClientPlayer.java
+ net.ccbluex.liquidbounce.injection.forge.mixins.entity.MixinAbstractClientPlayer
+net/ccbluex/liquidbounce/injection/forge/mixins/gui/MixinGuiInGame.java
+ net.ccbluex.liquidbounce.injection.forge.mixins.gui.MixinGuiInGame
+net/ccbluex/liquidbounce/injection/forge/mixins/resources/MixinSkinManager.java
+ net.ccbluex.liquidbounce.injection.forge.mixins.resources.MixinSkinManager
+net/ccbluex/liquidbounce/injection/forge/mixins/item/MixinMixinItemStack.java
+ net.ccbluex.liquidbounce.injection.forge.mixins.item.MixinMixinItemStack
+net/ccbluex/liquidbounce/script/remapper/injection/transformers/AbstractJavaLinkerTransformer.java
+ net.ccbluex.liquidbounce.script.remapper.injection.transformers.AbstractJavaLinkerTransformer
+net/ccbluex/liquidbounce/injection/forge/mixins/world/MixinChunk.java
+ net.ccbluex.liquidbounce.injection.forge.mixins.world.MixinChunk
+net/ccbluex/liquidbounce/injection/forge/mixins/block/MixinBlockSoulSand.java
+ net.ccbluex.liquidbounce.injection.forge.mixins.block.MixinBlockSoulSand
+net/ccbluex/liquidbounce/injection/forge/mixins/render/MixinTileEntityItemStackRenderer.java
+ net.ccbluex.liquidbounce.injection.forge.mixins.render.MixinTileEntityItemStackRenderer
+net/ccbluex/liquidbounce/injection/transformers/ForgeNetworkTransformer.java
+ net.ccbluex.liquidbounce.injection.transformers.ForgeNetworkTransformer
+net/ccbluex/liquidbounce/injection/forge/mixins/block/MixinBlockLadder.java
+ net.ccbluex.liquidbounce.injection.forge.mixins.block.MixinBlockLadder
+net/ccbluex/liquidbounce/ui/client/clickgui/style/styles/fdpdropdown/utils/render/DrRenderUtils.java
+ net.ccbluex.liquidbounce.ui.client.clickgui.style.styles.fdpdropdown.utils.render.DrRenderUtils
+net/ccbluex/liquidbounce/injection/forge/mixins/client/MixinResourcePackRepository.java
+ net.ccbluex.liquidbounce.injection.forge.mixins.client.MixinResourcePackRepository
+net/ccbluex/liquidbounce/ui/client/clickgui/style/styles/fdpdropdown/utils/animations/impl/DecelerateAnimation.java
+ net.ccbluex.liquidbounce.ui.client.clickgui.style.styles.fdpdropdown.utils.animations.impl.DecelerateAnimation
+net/ccbluex/liquidbounce/injection/forge/mixins/gui/MixinGuiDownloadTerrain.java
+ net.ccbluex.liquidbounce.injection.forge.mixins.gui.MixinGuiDownloadTerrain
+net/ccbluex/liquidbounce/injection/forge/mixins/block/MixinBlockAnvil.java
+ net.ccbluex.liquidbounce.injection.forge.mixins.block.MixinBlockAnvil
+net/ccbluex/liquidbounce/injection/forge/mixins/render/MixinRenderItem.java
+ net.ccbluex.liquidbounce.injection.forge.mixins.render.MixinRenderItem
+net/ccbluex/liquidbounce/injection/forge/mixins/client/MixinMinecraft.java
+ net.ccbluex.liquidbounce.injection.forge.mixins.client.MixinMinecraft
+net/ccbluex/liquidbounce/injection/forge/mixins/gui/MixinServerSelectionList.java
+ net.ccbluex.liquidbounce.injection.forge.mixins.gui.MixinServerSelectionList
+net/ccbluex/liquidbounce/injection/forge/mixins/render/MixinRenderManager.java
+ net.ccbluex.liquidbounce.injection.forge.mixins.render.MixinRenderManager
+net/ccbluex/liquidbounce/injection/forge/mixins/item/MixinItem.java
+ net.ccbluex.liquidbounce.injection.forge.mixins.item.MixinItem
+net/ccbluex/liquidbounce/injection/forge/mixins/render/MixinTileEntityChestRenderer.java
+ net.ccbluex.liquidbounce.injection.forge.mixins.render.MixinTileEntityChestRenderer
+net/ccbluex/liquidbounce/ui/client/clickgui/style/styles/fdpdropdown/utils/animations/impl/EaseInOutQuad.java
+ net.ccbluex.liquidbounce.ui.client.clickgui.style.styles.fdpdropdown.utils.animations.impl.EaseInOutQuad
+net/ccbluex/liquidbounce/injection/forge/mixins/gui/MixinGuiSpectator.java
+ net.ccbluex.liquidbounce.injection.forge.mixins.gui.MixinGuiSpectator
+net/ccbluex/liquidbounce/injection/forge/mixins/render/MixinLayerHeldItem.java
+ net.ccbluex.liquidbounce.injection.forge.mixins.render.MixinLayerHeldItem
+net/ccbluex/liquidbounce/injection/forge/mixins/client/MixinMovementInputFromOptions.java
+ net.ccbluex.liquidbounce.injection.forge.mixins.client.MixinMovementInputFromOptions
+net/ccbluex/liquidbounce/injection/forge/mixins/item/MixinItemRenderer.java
+ net.ccbluex.liquidbounce.injection.forge.mixins.item.MixinItemRenderer
+ net.ccbluex.liquidbounce.injection.forge.mixins.item.MixinItemRenderer$1
+net/ccbluex/liquidbounce/injection/forge/mixins/gui/MixinGuiScreen.java
+ net.ccbluex.liquidbounce.injection.forge.mixins.gui.MixinGuiScreen

@@ -29,7 +29,7 @@ object IconUtils {
         return false
     }
 
-    fun getFavicon() = null
+    fun getFavicon(): Array<ByteBuffer>? = emptyArray()
 
     @Throws(IOException::class)
     private fun readImageToBuffer(imageStream: InputStream?): ByteBuffer? {

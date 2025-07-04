@@ -20,10 +20,10 @@ import net.ccbluex.liquidbounce.utils.render.RenderUtils.drawCrystal
 import net.ccbluex.liquidbounce.utils.render.RenderUtils.drawEntityBox
 import net.ccbluex.liquidbounce.utils.render.RenderUtils.drawEntityBoxESP
 import net.ccbluex.liquidbounce.utils.render.RenderUtils.drawFDP
-import net.ccbluex.liquidbounce.utils.render.RenderUtils.drawJello
 import net.ccbluex.liquidbounce.utils.render.RenderUtils.drawLies
 import net.ccbluex.liquidbounce.utils.render.RenderUtils.drawPlatform
 import net.ccbluex.liquidbounce.utils.render.RenderUtils.drawPlatformESP
+import net.ccbluex.liquidbounce.utils.render.RenderUtils.drawAloxMark
 import net.ccbluex.liquidbounce.utils.render.RenderUtils.drawZavz
 import net.minecraft.block.Block
 import net.minecraft.enchantment.EnchantmentHelper
@@ -159,8 +159,8 @@ object CombatVisuals : Module("CombatVisuals", Category.VISUAL, subjective = tru
                 dual = true, // or false based on your requirement
             )
 
-            "aloxmark" -> drawJello(
-                entityLivingBase,
+            "aloxmark" -> drawAloxMark(
+                entityLivingBase
             )
 
             "fdp" -> drawFDP(
